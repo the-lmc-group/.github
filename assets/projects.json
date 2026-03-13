@@ -44,7 +44,7 @@
         },
         siteUrl: "trainflow",
         githubUrl: "https://github.com/the-lmc-group/trainflow",
-        favicon: "/favicon.ico",
+        favicon: "/banner/trainflow_transparent_banner.png",
         status: "active",
         platforms: ["web"],
         tags: ["train", "map"],
