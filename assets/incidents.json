@@ -1,16 +1,21 @@
 {
-  "lastUpdated": "2026-03-14T19:00:59.245Z",
+  "lastUpdated": "2026-03-14T19:36:15.726Z",
   "incidents": [
     {
       "id": "inc_bb3ab1c2-dcb4-4222-8b0a-e3e69d858cd0",
       "service": "onyx",
-      "title": "test",
+      "title": "test 2",
       "startedAt": "2026-03-14T18:31:06.923Z",
       "updates": [
         {
           "status": "investigating",
           "message": "",
           "timestamp": "2026-03-14T18:31:06.923Z"
+        },
+        {
+          "status": "investigating",
+          "message": "",
+          "timestamp": "2026-03-14T19:36:15.726Z"
         }
       ]
     },
