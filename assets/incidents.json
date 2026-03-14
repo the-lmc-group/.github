@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T19:37:17.043Z",
+  "lastUpdated": "2026-03-14T19:37:37.812Z",
   "incidents": [
     {
       "id": "inc_bb3ab1c2-dcb4-4222-8b0a-e3e69d858cd0",
@@ -36,6 +36,15 @@
   "maintenances": [
     {
       "id": "mnt_8d812bfb-7293-4852-b9de-3db6c1a47165",
+      "service": "onyx",
+      "title": "test",
+      "message": "",
+      "status": "scheduled",
+      "scheduledStart": "2026-03-14T20:37:00.000Z",
+      "scheduledEnd": "2026-03-14T21:37:00.000Z"
+    },
+    {
+      "id": "mnt_dff2c418-13d8-4739-b484-faa929403664",
       "service": "onyx",
       "title": "test",
       "message": "",
