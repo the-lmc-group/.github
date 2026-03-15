@@ -71,7 +71,7 @@
         },
         siteUrl: "search",
         favicon: "/favicon.ico",
-        status: "down",
+        status: "maintenance",
         platforms: ["web"],
         tags: ["search-engine"],
         version: "3.5",
