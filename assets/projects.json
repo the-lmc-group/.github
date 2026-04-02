@@ -63,21 +63,20 @@
         }
       },
       {
-        id: "lmc-search",
-        name: "LMC Search",
+        id: "octara-tools",
+        name: "Octara Tools",
         descriptions: {
-          en: "A modern and fast search engine that provides additional information.",
-          fr: "Un moteur de recherche moderne et rapide qui fournit des informations supplémentaires."
+          en: "High-performance APIs, modules, and tools designed for developers.",
+          fr: "Des APIs, modules et outils haute performance conçus pour les développeurs."
         },
-        siteUrl: "search",
-        favicon: "/favicon.ico",
-        status: "maintenance",
+        siteUrl: "tools",
+        favicon: "/favicon.png",
+        status: "active",
         platforms: ["web"],
-        tags: ["search-engine"],
-        version: "3.5",
+        tags: ["tools"],
+        version: "1.0",
         statusUrls: {
-          "Site": "/",
-          "API": "/api/ping"
+          "Site": "/"
         }
       }
     ]
