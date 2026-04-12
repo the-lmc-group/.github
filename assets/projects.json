@@ -77,6 +77,22 @@
         version: "1.0",
         statusUrls: {
           "Site": "/"
+        },
+        {
+        id: "octara-search",
+        name: "Octara Search",
+        descriptions: {
+          en: "A 100% open source search engine, free and without data collection.",
+          fr: "Un moteur de recherche 100% Open source, gratuit et sans collecte de données."
+        },
+        siteUrl: "search",
+        favicon: "/favicon.png",
+        status: "active",
+        platforms: ["web"],
+        tags: ["search"],
+        version: "4.0",
+        statusUrls: {
+          "Site": "/"
         }
       }
     ]
