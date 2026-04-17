@@ -1,38 +1,38 @@
 [
   {
-    category: "app",
-    projects: [
+    "category": "app",
+    "projects": [
       {
-        id: "lmc-maps",
-        name: "LMC Maps",
-        descriptions: {
-          fr: "Une application de navigation efficace et open source.",
-          en: "An efficient and open-source navigation application."
+        "id": "lmc-maps",
+        "name": "LMC Maps",
+        "descriptions": {
+          "fr": "Une application de navigation efficace et open source.",
+          "en": "An efficient and open-source navigation application."
         },
-        siteUrl: "maps",
-        favicon: "/favicon.ico",
-        status: "active",
-        platforms: ["android"],
-        tags: ["navigation"],
-        version: "3.0.0",
-        statusUrls: {
+        "siteUrl": "maps",
+        "favicon": "/favicon.ico",
+        "status": "active",
+        "platforms": ["android"],
+        "tags": ["navigation"],
+        "version": "3.0.0",
+        "statusUrls": {
           "Site": "/"
         }
       },
       {
-        id: "onyx",
-        name: "Onyx",
-        descriptions: {
-          fr: "Un bot Discord multifonction 100 % gratuit.",
-          en: "A fully free multifunctional Discord bot."
+        "id": "onyx",
+        "name": "Onyx",
+        "descriptions": {
+          "fr": "Un bot Discord multifonction 100 % gratuit.",
+          "en": "A fully free multifunctional Discord bot."
         },
-        siteUrl: "onyx",
-        favicon: "/favicon.ico",
-        status: "active",
-        platforms: ["discord"],
-        tags: ["bot"],
-        version: "1.0",
-        statusUrls: {
+        "siteUrl": "onyx",
+        "favicon": "/favicon.ico",
+        "status": "active",
+        "platforms": ["discord"],
+        "tags": ["bot"],
+        "version": "1.0",
+        "statusUrls": {
           "API": "/api/status/ping",
           "Bot": "/api/status/bot",
           "Site": "/"
@@ -41,62 +41,61 @@
     ]
   },
   {
-    category: "web",
-    projects: [
+    "category": "web",
+    "projects": [
       {
-        id: "trainflow",
-        name: "Trainflow",
-        descriptions: {
-          en: "A real-time French train tracking application.",
-          fr: "Une application de suivi des trains français en temps réel."
+        "id": "trainflow",
+        "name": "Trainflow",
+        "descriptions": {
+          "en": "A real-time French train tracking application.",
+          "fr": "Une application de suivi des trains français en temps réel."
         },
-        siteUrl: "trainflow",
-        githubUrl: "https://github.com/the-lmc-group/trainflow",
-        favicon: "/banner/trainflow_transparent_banner.png",
-        status: "active",
-        platforms: ["web"],
-        tags: ["train", "map"],
-        version: "2.1",
-        statusUrls: {
+        "siteUrl": "trainflow",
+        "githubUrl": "https://github.com/the-lmc-group/trainflow",
+        "favicon": "/banner/trainflow_transparent_banner.png",
+        "status": "active",
+        "platforms": ["web"],
+        "tags": ["train", "map"],
+        "version": "2.1",
+        "statusUrls": {
           "Site": "/",
           "Tiles": "/api"
         }
       },
       {
-        id: "octara-tools",
-        name: "Octara Tools",
-        descriptions: {
-          en: "High-performance APIs, modules, and tools designed for developers.",
-          fr: "Des APIs, modules et outils haute performance conçus pour les développeurs."
+        "id": "octara-tools",
+        "name": "Octara Tools",
+        "descriptions": {
+          "en": "High-performance APIs, modules, and tools designed for developers.",
+          "fr": "Des APIs, modules et outils haute performance conçus pour les développeurs."
         },
-        siteUrl: "tools",
-        favicon: "/favicon.png",
-        status: "active",
-        platforms: ["web"],
-        tags: ["tools"],
-        version: "1.0",
-        statusUrls: {
+        "siteUrl": "tools",
+        "favicon": "/favicon.png",
+        "status": "active",
+        "platforms": ["web"],
+        "tags": ["tools"],
+        "version": "1.0",
+        "statusUrls": {
           "Site": "/"
+        }
+      },
+      {
+        "id": "octara-search",
+        "name": "Octara Search",
+        "descriptions": {
+          "en": "A 100% open source search engine, free and without data collection.",
+          "fr": "Un moteur de recherche 100% Open source, gratuit et sans collecte de données."
         },
-       },
-       {
-        id: "octara-search",
-        name: "Octara Search",
-        descriptions: {
-          en: "A 100% open source search engine, free and without data collection.",
-          fr: "Un moteur de recherche 100% Open source, gratuit et sans collecte de données."
-        },
-        siteUrl: "search",
-        favicon: "/favicon.png",
-        status: "active",
-        platforms: ["web"],
-        tags: ["search"],
-        version: "4.0",
-        statusUrls: {
+        "siteUrl": "search",
+        "favicon": "/favicon.png",
+        "status": "active",
+        "platforms": ["web"],
+        "tags": ["search"],
+        "version": "4.0",
+        "statusUrls": {
           "Site": "/"
         }
       }
-      
     ]
   }
 ]
