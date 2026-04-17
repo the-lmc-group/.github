@@ -78,7 +78,7 @@
         statusUrls: {
           "Site": "/"
         },
-      }
+      },
         {
         id: "octara-search",
         name: "Octara Search",
